@@ -1,0 +1,2 @@
+# AI-Powered-Custom-Resume-Builder-for-Job-Applications
+AI-Powered Custom Resume Builder for Job Applications is a Python-based tool designed to help job seekers create tailored resumes for specific job postings. Using the Groq API and the Mixtral-8x7b model, it analyzes your existing resume and a job description to generate a customized resume that highlights your most relevant skills and experiences.
